@@ -8,4 +8,4 @@ Airbridge SDK for iOS
 
 ## Reference
 
-- https://reference.airbridge.io/airbridge-ios-sdk/4.4.2/
+- https://reference.airbridge.io/airbridge-ios-sdk/4.5.0/
