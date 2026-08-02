@@ -29,8 +29,8 @@ let package = Package(
         ),
         .binaryTarget(
         name: "Airbridge",
-        url: "https://sdk-download.airbridge.io/airbridge-ios-sdk/4.10.1/Airbridge.zip",
-        checksum: "89aae1d6795f9d61b782ac4d638e237c3e4021cc08cfc9a445f5211781ea0fdc"
+        url: "https://sdk-download.airbridge.io/airbridge-ios-sdk/4.11.0/Airbridge.zip",
+        checksum: "a4e0bb8a7ca0ef03a60fa1e52c34fbe792a4637ce5b73ced8215dc62b5e7145a"
     ),
     ]
 )
